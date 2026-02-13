@@ -155,7 +155,7 @@ fun TradeInfoUI(){
                             color = Color.Black
                         )
                         Text(
-                            "Loss",
+                            "Lossless",
                             fontSize = 18.sp,
                             fontWeight = FontWeight.Bold,
                             color = Color.Gray
