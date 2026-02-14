@@ -84,7 +84,7 @@ fun TradeInfoUI(){
         Spacer(modifier = Modifier.height(12.dp))
 
         Text(
-            "All trades",
+            "All trades for you",
             fontStyle = FontStyle.Normal,
             textDecoration = TextDecoration.Underline,
             fontSize = 14.sp,
